@@ -1,7 +1,3 @@
-README.md (Vorlage für Doku)
-markdown
-Copy
-Edit
 # AWS Joke API (Serverless Project)
 
 ## Projektziel
@@ -17,10 +13,6 @@ Erstellung einer eigenen Mini-REST-API mit AWS Lambda und API Gateway. Die Funkt
 ## Architektur
 
 Client (Browser) → API Gateway → Lambda → JokeAPI → Antwort zurück
-
-markdown
-Copy
-Edit
 
 ## Ablauf
 
